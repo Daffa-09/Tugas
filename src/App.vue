@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Pertemuan5 from './components/Pertemuan5.vue';
 </script>
 
 <template>
-  <HelloWorld/>
+  <Pertemuan5/>
 </template>
 
 
